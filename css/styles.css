@@ -2,7 +2,7 @@
 * @Author: Tom Lotze
 * @Date:   2020-01-13 18:06:29
 * @Last Modified by:   Tom Lotze
-* @Last Modified time: 2020-01-14 20:38:35
+* @Last Modified time: 2020-01-14 21:02:09
 */
 
 /* Style the header */
@@ -25,6 +25,7 @@
 .icon {
   padding-left: 10px;
 }
+
 
 body {
   margin-left: 10%;
@@ -65,3 +66,15 @@ li a:hover:not(.active) {
 
 .active {
   background-color: #008cba;}
+
+.center {
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+
