@@ -2,7 +2,7 @@
 * @Author: Tom Lotze
 * @Date:   2020-01-13 18:06:29
 * @Last Modified by:   Tom Lotze
-* @Last Modified time: 2020-01-14 14:49:09
+* @Last Modified time: 2020-01-14 20:38:35
 */
 
 /* Style the header */
@@ -16,11 +16,14 @@
 /* Style the footer */
  .footer {
   background-color: #F1F1F1;
-  text-align: left;
-  height: 40px;
-  align-content: middle;
-  padding: 1px;
+  align-content: center;
   margin: 14px 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.icon {
+  padding-left: 10px;
 }
 
 body {
